@@ -1,3 +1,3 @@
 # gamedev-resources
 gamedev-resources page repository
-https://othetrain.github.io/gamedev-resources/
+https://owen-orsini.github.io/gamedev-resources/
